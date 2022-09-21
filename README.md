@@ -1,1 +1,2 @@
 instructions
+student manage
